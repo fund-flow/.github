@@ -1,4 +1,4 @@
-# Fund Flow
+# Fund Flow 🦍
 
 Your Personal Onchain Copilot to manage all things crypto.
 
